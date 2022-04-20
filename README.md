@@ -3,4 +3,4 @@ Tribute page: https://codepen.io/rileythecoder/pen/WNXqyLa
 <br>
 Survey page: https://codepen.io/rileythecoder/pen/OJzbewZ
 <br>
-Product Landing page: https://codepen.io/rileythecoder/pen/VwyqNjG
+Product Landing page: https://codepen.io/rileythecoder/pen/JjMzoaL
